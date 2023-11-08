@@ -1,8 +1,17 @@
-# React + Vite
+# Setting up the project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Step 1:
+Clone the repository in the folder created, by running the below command in terminal.
+`git clone https://github.com/Aditya16828/chatbot3d-frontend.git`
 
-Currently, two official plugins are available:
+## Step 2:
+Now, navigate into the folder named **chatbot3d-frontend** and run
+`npm install`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Step 3:
+After the installation of the node-modules is completed, the following will be shown.
+![npmSS](./screenshots/npmSS.jpeg)
+
+## Step 4:
+To start the frontend server run `npm run dev`
+![viteSS](./screenshots/ViteSS.jpeg)
